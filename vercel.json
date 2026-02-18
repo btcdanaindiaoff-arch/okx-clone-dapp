@@ -1,0 +1,11 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "env": {
+    "NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID": "a01e2d3c4b5a6f7e8d9c0b1a2f3e4d5c",
+    "NEXT_PUBLIC_DEX_CONTRACT_ADDRESS": "0x0000000000000000000000000000000000000000",
+    "NEXT_PUBLIC_DEFAULT_CHAIN_ID": "97"
+  }
+}
